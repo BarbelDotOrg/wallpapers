@@ -1,6 +1,6 @@
 # Maintainer: Barbel <barbel@barbel.org>
 pkgname=barbelos-wallpapers
-pkgver=1.0.0
+pkgver=2.0.0
 pkgrel=1
 pkgdesc="Wallpapers for BarbelOS"
 arch=('any')
